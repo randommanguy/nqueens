@@ -1,0 +1,2 @@
+# Minimal requirements file (project only uses Python standard library)
+# Python >= 3.8 recommended (includes tkinter, os, time)
